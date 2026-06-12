@@ -1,5 +1,7 @@
 📊 CGPA Calculator System (C++ Project)
-The CGPA Calculator System is a C++ based mini project designed to simplify the process of calculating a student’s academic performance efficiently and accurately 🎓. This system takes course-wise grades and credit hours as input and computes the overall CGPA in a structured manner.
+
+The CGPA Calculator System is a C++ based mini project designed to simplify the process of calculating a student’s academic performance efficiently and accurately 🎓.
+This system takes course-wise grades and credit hours as input and computes the overall CGPA in a structured manner.
 
 The main objective of this project is to help students easily track their academic progress and reduce manual calculation errors. It provides a clean and interactive way to enter multiple subjects, calculate grade points, and generate final CGPA results instantly.
 
